@@ -24,7 +24,7 @@ This project is a beginner-level exercise in creating a desktop application usin
 ## How to Download & Run
 
 ### Linux 64-bit
-1. Download the file: [Pomowatch-linux64.zip]()  
+1. Download the file: [Pomowatch-linux64.zip](sha256:1d02070757dba36587d2b5412d7ed761105a22172720c7784214769792ff0f48)  
 2. Extract:  
 
 `bash
@@ -43,11 +43,13 @@ cd linux
 2. Run with Java 17+:
 ``java -jar PomodoroApp.jar``
 
+---
 ### Limitations
 Only Linux & Windows 64-bit supported
 Features are very basic
 Made by a beginner, so bugs or improvements are possible
 
-License
+---
+### License
 
 This project is open source for learning and personal use purposes.
