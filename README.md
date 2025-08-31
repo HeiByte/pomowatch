@@ -40,9 +40,13 @@ cd linux
 
 ### Cross-Platform JAR
 
-1. Download the file: PomodoroApp.jar
+1. Download the file: [PomodoroApp.jar](https://github.com/HeiByte/pomowatch/releases/download/v1.0.0/PomodoroApp.jar)
 2. Run with Java 17+:
-``java -jar PomodoroApp.jar``
+
+```bash
+java -jar PomodoroApp.jar
+
+```
 
 ---
 ### Limitations
