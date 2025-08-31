@@ -24,7 +24,7 @@ This project is a beginner-level exercise in creating a desktop application usin
 ## How to Download & Run
 
 ### Linux 64-bit
-1. Download the file: [Pomowatch-linux64.zip](sha256:1d02070757dba36587d2b5412d7ed761105a22172720c7784214769792ff0f48)  
+1. Download the file: [Pomowatch-linux64.zip](https://github.com/HeiByte/pomowatch/releases/download/v1.0.0/Pomowatch-linux64.zip)  
 2. Extract:  
 
 `bash
