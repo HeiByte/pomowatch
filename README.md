@@ -32,7 +32,7 @@ unzip Pomowatch-linux64.zip
 cd linux
 ./PomodoroApp
 
-
+```
 ### Windows 64-bit
 
 1. Download the file: Pomowatch-windows.zip
