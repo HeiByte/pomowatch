@@ -1,0 +1,16 @@
+# NetBeans build folders
+/build/
+/nbproject/private/
+
+# Packr / JRE / artifacts
+/dist/
+/jre-custom/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.log
+*.class
+
+# Other temporary files
+*.tmp

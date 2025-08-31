@@ -1,0 +1,12 @@
+{
+  "platform": "windows64",
+  "jdk": "jre-custom",
+  "executable": "PomodoroApp",
+  "classpath": ["dist/JavaApplication1.jar"],
+  "mainclass": "Main",
+  "vmargs": ["-Xmx512m"],
+  "output": "dist/windows",
+  "icon": "icon.ico"
+}
+
+

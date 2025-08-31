@@ -1,0 +1,46 @@
+/* Global root style */
+.root {
+    -fx-font-family: "Inter", system-ui, sans-serif;
+    -fx-background-color: linear-gradient(to bottom right, #0F172A, #030712);
+}
+
+/* Labels */
+.label {
+    -fx-text-fill: #E6EEF8;
+}
+
+/* Mode label (atas timer) */
+#mode-label {
+    -fx-font-size: 20px;
+    -fx-font-weight: 600;
+    -fx-text-fill: #F8FAFC;
+}
+
+/* Timer text */
+#timer-label {
+    -fx-font-size: 48px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+/* Buttons */
+.button {
+    -fx-background-radius: 12;
+    -fx-border-radius: 12;
+    -fx-padding: 8 14 8 14;
+    -fx-background-color: rgba(255,255,255,0.06);
+    -fx-text-fill: #E6EEF8;
+    -fx-font-weight: 600;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 8, 0, 0, 2);
+    -fx-transition: all 0.2s ease-in-out;
+}
+
+.button:hover {
+    -fx-background-color: rgba(255,255,255,0.12);
+}
+
+/* Progress ring */
+.progress-ring {
+    -fx-effect: dropshadow(gaussian, rgba(79,209,197,0.2), 16, 0, 0, 4);
+}
