@@ -27,8 +27,8 @@ This project is a beginner-level exercise in creating a desktop application usin
 1. Download the file: [Pomowatch-linux64.zip](https://github.com/HeiByte/pomowatch/releases/download/v1.0.0/Pomowatch-linux64.zip)  
 2. Extract:  
 
-`bash
-unzip Pomowatch-linux64.zip
+```bash```
+`unzip Pomowatch-linux64.zip
 cd linux
 ./PomodoroApp`
 
