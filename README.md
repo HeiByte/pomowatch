@@ -32,27 +32,21 @@ unzip Pomowatch-linux64.zip
 cd linux
 ./PomodoroApp`
 
-Windows 64-bit
+### Windows 64-bit
 
-    Download the file: Pomowatch-windows.zip
+1. Download the file: Pomowatch-windows.zip
+2. Extract and run PomodoroApp.exe
 
-    Extract and run PomodoroApp.exe
+### Cross-Platform JAR
 
-Cross-Platform JAR
+1. Download the file: PomodoroApp.jar
+2. Run with Java 17+:
+``java -jar PomodoroApp.jar``
 
-    Download the file: PomodoroApp.jar
-
-    Run with Java 17+:
-
-java -jar PomodoroApp.jar
-
-Limitations
-
-    Only Linux & Windows 64-bit supported
-
-    Features are very basic
-
-    Made by a beginner, so bugs or improvements are possible
+### Limitations
+Only Linux & Windows 64-bit supported
+Features are very basic
+Made by a beginner, so bugs or improvements are possible
 
 License
 
