@@ -35,7 +35,7 @@ cd linux
 ```
 ### Windows 64-bit
 
-1. Download the file: Pomowatch-windows.zip
+1. Download the file: [Pomowatch-windows.zip](https://github.com/HeiByte/pomowatch/releases/download/v1.0.0/Pomowatch-windows.zip)
 2. Extract and run PomodoroApp.exe
 
 ### Cross-Platform JAR
