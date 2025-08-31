@@ -28,9 +28,10 @@ This project is a beginner-level exercise in creating a desktop application usin
 2. Extract:  
 
 ```bash```
-`unzip Pomowatch-linux64.zip
+unzip Pomowatch-linux64.zip
 cd linux
-./PomodoroApp`
+./PomodoroApp
+
 
 ### Windows 64-bit
 
